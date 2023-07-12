@@ -1,15 +1,7 @@
 # Text-to-Speech-Converter
 A web application that converts text into speech with different voice accents. Built with HTML, CSS, and JavaScript.
 
-### Table of Contents
-Introduction
-Features
-Installation
-Usage
-Contributing
-License
-
-###Introduction
+### Introduction
 The Text-to-Speech Converter is a web application that allows users to convert text into speech using different voice accents. It is built using HTML, CSS, and JavaScript, providing a seamless experience across modern web browsers. Users can enter their desired text, select the preferred voice accent, and listen to the converted speech output.
 
 ### Features
